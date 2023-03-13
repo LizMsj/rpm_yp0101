@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practika1", "Practika1.csproj", "{D0E088EA-8A14-4988-AF07-31F68FFE90EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "..\ClassLibrary2\ClassLibrary2.csproj", "{08F1C930-104C-4FBF-892F-97C51EABF0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E088EA-8A14-4988-AF07-31F68FFE90EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E088EA-8A14-4988-AF07-31F68FFE90EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E088EA-8A14-4988-AF07-31F68FFE90EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E088EA-8A14-4988-AF07-31F68FFE90EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F1C930-104C-4FBF-892F-97C51EABF0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F1C930-104C-4FBF-892F-97C51EABF0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F1C930-104C-4FBF-892F-97C51EABF0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F1C930-104C-4FBF-892F-97C51EABF0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C1AF3E-84C4-403F-93CA-61ED8DA444BC}
+	EndGlobalSection
+EndGlobal
